@@ -45,7 +45,7 @@ Goal is to model the demand for shared bikes with the available independent vari
 
 
 ## Contact
-Created by [@kalragaurav] - feel free to contact me!
+Created by @kalragaurav - feel free to contact me!
 
 
 <!-- Optional -->
