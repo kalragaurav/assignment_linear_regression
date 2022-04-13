@@ -7,7 +7,7 @@ Goal is to model the demand for shared bikes with the available independent vari
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used] Python and related Libraries. 
+* [Technologies Used](#technologies-used) 
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
